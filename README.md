@@ -45,8 +45,8 @@ For a full list of dependencies, refer to the `environment.yml` file.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/hx88xn/animal_9_classifier
-   cd animal_classifier
+   git clone https://github.com/ShaheerAhmed17/AnimalImageClassifier
+   cd AnimalImageClassifier
 
 2. **Create the conda environment**
     conda env create -f environment.yml
